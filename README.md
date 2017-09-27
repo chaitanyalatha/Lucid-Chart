@@ -1,1 +1,1 @@
-# Lucid-Chart
+# About Lucid-Chart
