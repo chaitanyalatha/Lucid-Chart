@@ -16,7 +16,7 @@ In LucidChart no versions of Diagram for every new user, where as in Draw.io cre
 
 In LucidChart no AWS 3D shapes are there. In Draw.io AWS 3D shapes are available.
 
-In LucidChart for every blank diagram, we need to add AWS shapes. In Draw.io for every blank diagram no need to add AWS shapes, all the shapes are automatically addded
+In LucidChart for every blank diagram, we need to add AWS shapes. In Draw.io for every blank diagram no need to add AWS shapes, all the shapes are automatically added.
 
 In LucidChart no need to create JIRA ticket first, we can start drawing the diagram and meanwhile scrum master/Reporter can create for us.  But in Drwa.io need to create JIRA ticket first, then only we can start drawing the diagram.
 
